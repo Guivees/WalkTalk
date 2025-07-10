@@ -30,7 +30,7 @@
 ## Mês 4: 
 - **Atividades:**
   - Desenvolvimento das funcionalidades de rastreamento de caminhadas via GPS.
-  - Integração com a API do Google Maps para rotas personalizadas.
+  - Integração com a API do Google Maps para rotas personalizadas. (ainda nao consegui desenvolver completamente, editado 10/07/2025)
 - **Entregáveis:**
   - Módulo de rastreamento de caminhadas.
   - Sistema de recompensas funcional.
@@ -39,7 +39,6 @@
 
 ## Mês 5: Testes 
 - **Atividades:**
-  - Condução de testes de usabilidade com 20 usuários locais.
   - Coleta de feedback e identificação de pontos de melhoria.
   - Correção de bugs e ajustes nas funcionalidades existentes.
 - **Entregáveis:**
@@ -50,7 +49,7 @@
 
 ## Mês 6: Lançamento Piloto
 - **Atividades:**
-  - Implementação do projeto piloto em bairros selecionados de Porto Alegre.
+  - Implementação do projeto piloto em bairros selecionados de Porto Alegre. (ainda nao feito)
   - Monitoramento do uso do aplicativo e coleta de dados automáticos (km caminhados, uso de recompensas).
   - Aplicação de questionários para avaliação da motivação dos usuários.
 - **Entregáveis:**
