@@ -1,2 +1,0 @@
-# WalkTalk
-PROJETO DE PP
